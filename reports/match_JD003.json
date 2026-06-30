@@ -1,0 +1,144 @@
+{
+  "job_description": "Senior Data Scientist",
+  "company": "Analytics Pro",
+  "jd_id": "JD003",
+  "search_metadata": {
+    "total_candidates_evaluated": 30,
+    "top_k_returned": 5,
+    "retrieval_latency_ms": 20.5,
+    "jd_required_experience": 4.0
+  },
+  "top_matches": [
+    {
+      "rank": 1,
+      "candidate_name": "Alice Johnson",
+      "resume_path": "resumes/resume_01_alice_johnson.txt",
+      "match_score": 64.2,
+      "score_breakdown": {
+        "semantic_score": 42.4,
+        "keyword_score": 82.5,
+        "candidate_experience_years": 6.0
+      },
+      "matched_skills": [
+        "Python",
+        "R",
+        "SQL",
+        "Spark"
+      ],
+      "missing_skills": [],
+      "relevant_excerpts": [
+        "Senior Machine Learning Engineer with 6 years of experience building production ML systems.\nExpert in Python, TensorFlow, PyTorch, and large-scale data pipelines.",
+        "- Languages: Python, R, SQL, Scala\n- ML Frameworks: TensorFlow, PyTorch, scikit-learn, XGBoost, LightGBM\n- MLOps: MLflow, Kubeflow, Airflow, Docker, K",
+        "Senior ML Engineer | DataAI Corp | 2021 - Present (3 years)\n- Built fraud detection model with 98.5% accuracy serving 10M transactions/day\n- Led NLP p"
+      ],
+      "reasoning": "✅ 6 years experience meets requirement of 4+ | ✅ Strong skill match: Python, R, SQL, Spark | 📌 Current: Senior ML Engineer | 📊 Scores — Semantic: 42, Keyword: 82, Experience: 100",
+      "hire_recommendation": "BORDERLINE — Good potential but gaps: "
+    },
+    {
+      "rank": 2,
+      "candidate_name": "Henry Patel",
+      "resume_path": "resumes/resume_08_henry_patel.txt",
+      "match_score": 60.2,
+      "score_breakdown": {
+        "semantic_score": 62.5,
+        "keyword_score": 47.5,
+        "candidate_experience_years": 5.0
+      },
+      "matched_skills": [
+        "Python",
+        "Spark"
+      ],
+      "missing_skills": [
+        "Strong statistics and ML knowledge",
+        "Experience with A/B testing frameworks",
+        "SQL and data engineering skills",
+        "Experience with business intelligence tools (Tableau/Power BI)"
+      ],
+      "relevant_excerpts": [
+        "Data Engineer with 5 years of experience. Python specialist.",
+        "- Python\n- Spark\n- Kafka\n- Airflow\n- dbt\n- Snowflake\n- BigQuery\n- AWS Glue\n- Delta Lake",
+        "Senior Data Engineer | DataPlatform Co | 2019 - Present (5 years)\n- Built real-time data pipeline processing 10TB/day\n- Migrated data warehouse to Sno"
+      ],
+      "reasoning": "✅ 5 years experience meets requirement of 4+ | ✅ Strong skill match: Python, Spark | ⚠️ Missing: Strong statistics and ML knowledge, Experience with A/B testing frameworks, SQL and data engineering skills | 📌 Current: Senior Data Engineer | 📊 Scores — Semantic: 62, Keyword: 48, Experience: 100",
+      "hire_recommendation": "BORDERLINE — Good potential but gaps: Strong statistics and ML knowledge, Experience with A/B testing frameworks"
+    },
+    {
+      "rank": 3,
+      "candidate_name": "Ela Suresh",
+      "resume_path": "resumes/resume_31_ela_suresh.txt",
+      "match_score": 53.5,
+      "score_breakdown": {
+        "semantic_score": 59.0,
+        "keyword_score": 35.0,
+        "candidate_experience_years": 6.0
+      },
+      "matched_skills": [
+        "SQL",
+        "Python"
+      ],
+      "missing_skills": [
+        "Strong statistics and ML knowledge",
+        "Experience with A/B testing frameworks",
+        "Experience with business intelligence tools (Tableau/Power BI)"
+      ],
+      "relevant_excerpts": [
+        "Business Intelligence Developer with 6 years of experience. SQL specialist.",
+        "- SQL\n- Tableau\n- Power BI\n- Python\n- dbt\n- Snowflake\n- ETL\n- Data Modeling",
+        "BI Developer | DataInsights | 2018 - Present (6 years)\n- Built enterprise data warehouse for $1B company\n- Created executive dashboards reducing repor"
+      ],
+      "reasoning": "✅ 6 years experience meets requirement of 4+ | ✅ Strong skill match: SQL, Python | ⚠️ Missing: Strong statistics and ML knowledge, Experience with A/B testing frameworks, Experience with business intelligence tools (Tableau/Power BI) | 📌 Current: BI Developer | 📊 Scores — Semantic: 59, Keyword: 35, Experience: 100",
+      "hire_recommendation": "BORDERLINE — Good potential but gaps: Strong statistics and ML knowledge, Experience with A/B testing frameworks"
+    },
+    {
+      "rank": 4,
+      "candidate_name": "Carol Chen",
+      "resume_path": "resumes/resume_03_carol_chen.txt",
+      "match_score": 53.4,
+      "score_breakdown": {
+        "semantic_score": 44.9,
+        "keyword_score": 52.5,
+        "candidate_experience_years": 5.0
+      },
+      "matched_skills": [
+        "Python",
+        "R",
+        "SQL"
+      ],
+      "missing_skills": [],
+      "relevant_excerpts": [
+        "Data Scientist with 5 years of experience in statistical modeling, Python, and business intelligence.\nStrong background in A/B testing, customer segmentation, and predictive analytics.",
+        "Senior Data Scientist | RetailCo | 2021 - Present (3 years)\n- Built customer churn prediction model saving $5M/year\n- Designed A/B testing framework u",
+        "- Languages: Python, R, SQL\n- ML: scikit-learn, XGBoost, statsmodels, Prophet\n- Visualization: Tableau, Power BI, matplotlib, seaborn, Plotly\n- Data E"
+      ],
+      "reasoning": "✅ 5 years experience meets requirement of 4+ | ✅ Strong skill match: Python, R, SQL | 📌 Current: Senior Data Scientist | 📊 Scores — Semantic: 45, Keyword: 52, Experience: 100",
+      "hire_recommendation": "BORDERLINE — Good potential but gaps: "
+    },
+    {
+      "rank": 5,
+      "candidate_name": "Yara Kapoor",
+      "resume_path": "resumes/resume_25_yara_kapoor.txt",
+      "match_score": 49.9,
+      "score_breakdown": {
+        "semantic_score": 57.8,
+        "keyword_score": 35.0,
+        "candidate_experience_years": 3.0
+      },
+      "matched_skills": [
+        "Python",
+        "SQL"
+      ],
+      "missing_skills": [
+        "Strong statistics and ML knowledge",
+        "Experience with A/B testing frameworks",
+        "Experience with business intelligence tools (Tableau/Power BI)"
+      ],
+      "relevant_excerpts": [
+        "Data Analyst with 3 years of experience. Python specialist.",
+        "- Python\n- SQL\n- Tableau\n- Power BI\n- Excel\n- Statistics\n- pandas\n- matplotlib",
+        "Data Analyst | RetailChain | 2021 - Present (3 years)\n- Built 30+ dashboards for C-suite decision making\n- Identified $2M in cost savings via spend an"
+      ],
+      "reasoning": "⚠️ 3 years experience below required 4+ | ✅ Strong skill match: Python, SQL | ⚠️ Missing: Strong statistics and ML knowledge, Experience with A/B testing frameworks, Experience with business intelligence tools (Tableau/Power BI) | 📌 Current: Data Analyst | 📊 Scores — Semantic: 58, Keyword: 35, Experience: 70",
+      "hire_recommendation": "NO HIRE — Significant skill/experience gaps"
+    }
+  ]
+}

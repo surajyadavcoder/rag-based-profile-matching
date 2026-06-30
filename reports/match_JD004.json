@@ -1,0 +1,155 @@
+{
+  "job_description": "DevOps / Platform Engineer",
+  "company": "CloudScale Inc",
+  "jd_id": "JD004",
+  "search_metadata": {
+    "total_candidates_evaluated": 31,
+    "top_k_returned": 5,
+    "retrieval_latency_ms": 21.2,
+    "jd_required_experience": 3.0
+  },
+  "top_matches": [
+    {
+      "rank": 1,
+      "candidate_name": "David Kumar",
+      "resume_path": "resumes/resume_04_david_kumar.txt",
+      "match_score": 65.3,
+      "score_breakdown": {
+        "semantic_score": 30.6,
+        "keyword_score": 100.0,
+        "candidate_experience_years": 5.0
+      },
+      "matched_skills": [
+        "Kubernetes",
+        "Terraform",
+        "AWS",
+        "GCP",
+        "Ansible",
+        "Docker",
+        "Jenkins",
+        "ArgoCD"
+      ],
+      "missing_skills": [],
+      "relevant_excerpts": [
+        "DevOps / Platform Engineer with 5 years of experience in cloud infrastructure, CI/CD, and SRE practices.\nExpert in Kubernetes, Terraform, and AWS. Reduced downtime by 99.5% at current company.",
+        "Senior DevOps Engineer | CloudFirst | 2021 - Present (3 years)\n- Managed 500-node Kubernetes cluster serving 50M requests/day\n- Reduced infrastructure",
+        "- AWS Solutions Architect Professional\n- Certified Kubernetes Administrator (CKA)\n- HashiCorp Terraform Associate"
+      ],
+      "reasoning": "✅ 5 years experience meets requirement of 3+ | ✅ Strong skill match: Kubernetes, Terraform, AWS, GCP, Ansible | 📌 Current: Senior DevOps Engineer | 📊 Scores — Semantic: 31, Keyword: 100, Experience: 100",
+      "hire_recommendation": "HIRE — Recommend for first-round interview"
+    },
+    {
+      "rank": 2,
+      "candidate_name": "Sam Pillai",
+      "resume_path": "resumes/resume_19_sam_pillai.txt",
+      "match_score": 53.0,
+      "score_breakdown": {
+        "semantic_score": 45.2,
+        "keyword_score": 51.0,
+        "candidate_experience_years": 4.0
+      },
+      "matched_skills": [
+        "Go",
+        "Docker",
+        "Kubernetes",
+        "Prometheus",
+        "Python"
+      ],
+      "missing_skills": [
+        "Terraform or Ansible for IaC",
+        "AWS or GCP expertise"
+      ],
+      "relevant_excerpts": [
+        "Go Developer with 4 years of experience. Go specialist.",
+        "- Go\n- gRPC\n- Microservices\n- Kafka\n- PostgreSQL\n- Docker\n- Kubernetes\n- Prometheus",
+        "Senior Go Developer | GoFirst | 2020 - Present (4 years)\n- Built high-performance API gateway in Go (50k req/sec)\n- Reduced service latency by 70% by "
+      ],
+      "reasoning": "✅ 4 years experience meets requirement of 3+ | ✅ Strong skill match: Go, Docker, Kubernetes, Prometheus, Python | ⚠️ Missing: Terraform or Ansible for IaC, AWS or GCP expertise | 📌 Current: Senior Go Developer | 📊 Scores — Semantic: 45, Keyword: 51, Experience: 100",
+      "hire_recommendation": "BORDERLINE — Good potential but gaps: Terraform or Ansible for IaC, AWS or GCP expertise"
+    },
+    {
+      "rank": 3,
+      "candidate_name": "Zack Thomas",
+      "resume_path": "resumes/resume_26_zack_thomas.txt",
+      "match_score": 49.1,
+      "score_breakdown": {
+        "semantic_score": 38.2,
+        "keyword_score": 50.0,
+        "candidate_experience_years": 5.0
+      },
+      "matched_skills": [
+        "Python",
+        "Kubernetes",
+        "Prometheus",
+        "Grafana",
+        "AWS",
+        "Terraform"
+      ],
+      "missing_skills": [
+        "CI/CD pipeline experience (GitHub Actions, Jenkins, ArgoCD)"
+      ],
+      "relevant_excerpts": [
+        "Site Reliability Engineer with 5 years of experience. Python specialist.",
+        "- Python\n- Kubernetes\n- Prometheus\n- Grafana\n- AWS\n- Terraform\n- On-call\n- SLO/SLA\n- Incident Management",
+        "SRE | ReliabilityCo | 2019 - Present (5 years)\n- Achieved 99.99% uptime for critical payment systems\n- Reduced MTTR from 2 hours to 15 minutes\n- Built"
+      ],
+      "reasoning": "✅ 5 years experience meets requirement of 3+ | ✅ Strong skill match: Python, Kubernetes, Prometheus, Grafana, AWS | ⚠️ Missing: CI/CD pipeline experience (GitHub Actions, Jenkins, ArgoCD) | 📌 Current: SRE | 📊 Scores — Semantic: 38, Keyword: 50, Experience: 100",
+      "hire_recommendation": "NO HIRE — Significant skill/experience gaps"
+    },
+    {
+      "rank": 4,
+      "candidate_name": "Eva Singh",
+      "resume_path": "resumes/resume_05_eva_singh.txt",
+      "match_score": 48.6,
+      "score_breakdown": {
+        "semantic_score": 36.4,
+        "keyword_score": 51.0,
+        "candidate_experience_years": 3.0
+      },
+      "matched_skills": [
+        "Python",
+        "Go",
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "missing_skills": [
+        "Terraform or Ansible for IaC",
+        "Monitoring with Prometheus and Grafana"
+      ],
+      "relevant_excerpts": [
+        "Backend Engineer with 3 years of experience specializing in Python microservices, FastAPI, and distributed systems.\nStrong in system design and database optimization.",
+        "Backend Engineer | FinPay | 2021 - Present (3 years)\n- Built payment API handling 1M transactions/day using FastAPI\n- Designed event-driven microservi",
+        "- Languages: Python, Go, SQL\n- Frameworks: FastAPI, Django, Flask, gRPC\n- Databases: PostgreSQL, MongoDB, Redis, Cassandra\n- Message Queues: Kafka, Ra"
+      ],
+      "reasoning": "✅ 3 years experience meets requirement of 3+ | ✅ Strong skill match: Python, Go, AWS, Docker, Kubernetes | ⚠️ Missing: Terraform or Ansible for IaC, Monitoring with Prometheus and Grafana | 📌 Current: Backend Engineer | 📊 Scores — Semantic: 36, Keyword: 51, Experience: 100",
+      "hire_recommendation": "NO HIRE — Significant skill/experience gaps"
+    },
+    {
+      "rank": 5,
+      "candidate_name": "Alice Johnson",
+      "resume_path": "resumes/resume_01_alice_johnson.txt",
+      "match_score": 44.0,
+      "score_breakdown": {
+        "semantic_score": 33.7,
+        "keyword_score": 43.0,
+        "candidate_experience_years": 6.0
+      },
+      "matched_skills": [
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "GCP"
+      ],
+      "missing_skills": [],
+      "relevant_excerpts": [
+        "Senior Machine Learning Engineer with 6 years of experience building production ML systems.\nExpert in Python, TensorFlow, PyTorch, and large-scale data pipelines.",
+        "- Languages: Python, R, SQL, Scala\n- ML Frameworks: TensorFlow, PyTorch, scikit-learn, XGBoost, LightGBM\n- MLOps: MLflow, Kubeflow, Airflow, Docker, K",
+        "Name: Alice Johnson\nEmail: alice.johnson@email.com\nPhone: +91-9876500001"
+      ],
+      "reasoning": "✅ 6 years experience meets requirement of 3+ | ✅ Strong skill match: Python, Docker, Kubernetes, AWS, GCP | 📌 Current: Senior ML Engineer | 📊 Scores — Semantic: 34, Keyword: 43, Experience: 100",
+      "hire_recommendation": "NO HIRE — Significant skill/experience gaps"
+    }
+  ]
+}

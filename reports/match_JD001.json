@@ -1,0 +1,159 @@
+{
+  "job_description": "Senior Machine Learning Engineer",
+  "company": "AI Innovations Ltd",
+  "jd_id": "JD001",
+  "search_metadata": {
+    "total_candidates_evaluated": 30,
+    "top_k_returned": 5,
+    "retrieval_latency_ms": 25.4,
+    "jd_required_experience": 4.0
+  },
+  "top_matches": [
+    {
+      "rank": 1,
+      "candidate_name": "Alice Johnson",
+      "resume_path": "resumes/resume_01_alice_johnson.txt",
+      "match_score": 62.8,
+      "score_breakdown": {
+        "semantic_score": 41.0,
+        "keyword_score": 80.9,
+        "candidate_experience_years": 6.0
+      },
+      "matched_skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "MLflow",
+        "Kubeflow",
+        "AWS",
+        "GCP",
+        "Azure"
+      ],
+      "missing_skills": [],
+      "relevant_excerpts": [
+        "Senior Machine Learning Engineer with 6 years of experience building production ML systems.\nExpert in Python, TensorFlow, PyTorch, and large-scale data pipelines.",
+        "- Languages: Python, R, SQL, Scala\n- ML Frameworks: TensorFlow, PyTorch, scikit-learn, XGBoost, LightGBM\n- MLOps: MLflow, Kubeflow, Airflow, Docker, K",
+        "- Open source: PyTorch custom loss functions library (1200+ GitHub stars)\n- Kaggle Grandmaster (top 50 worldwide)\n- Published 2 papers in NeurIPS and "
+      ],
+      "reasoning": "✅ 6 years experience meets requirement of 4+ | ✅ Strong skill match: Python, TensorFlow, PyTorch, MLflow, Kubeflow | 📌 Current: Senior ML Engineer | 📊 Scores — Semantic: 41, Keyword: 81, Experience: 100",
+      "hire_recommendation": "BORDERLINE — Good potential but gaps: "
+    },
+    {
+      "rank": 2,
+      "candidate_name": "Dan Arora",
+      "resume_path": "resumes/resume_30_dan_arora.txt",
+      "match_score": 42.8,
+      "score_breakdown": {
+        "semantic_score": 45.2,
+        "keyword_score": 25.5,
+        "candidate_experience_years": 4.0
+      },
+      "matched_skills": [
+        "Python",
+        "MLflow",
+        "Kubeflow",
+        "AWS"
+      ],
+      "missing_skills": [
+        "Proficiency in TensorFlow or PyTorch",
+        "Strong understanding of NLP and LLMs",
+        "Experience with distributed training"
+      ],
+      "relevant_excerpts": [
+        "ML Ops Engineer with 4 years of experience. Python specialist.",
+        "- Python\n- MLflow\n- Kubeflow\n- Docker\n- Kubernetes\n- Airflow\n- AWS SageMaker\n- CI/CD for ML",
+        "MLOps Engineer | MLPlatform | 2020 - Present (4 years)\n- Built ML platform serving 500+ data scientists\n- Reduced model deployment time from 2 weeks t"
+      ],
+      "reasoning": "✅ 4 years experience meets requirement of 4+ | ✅ Strong skill match: Python, MLflow, Kubeflow, AWS | ⚠️ Missing: Proficiency in TensorFlow or PyTorch, Strong understanding of NLP and LLMs, Experience with distributed training | 📌 Current: MLOps Engineer | 📊 Scores — Semantic: 45, Keyword: 26, Experience: 100",
+      "hire_recommendation": "NO HIRE — Significant skill/experience gaps"
+    },
+    {
+      "rank": 3,
+      "candidate_name": "David Kumar",
+      "resume_path": "resumes/resume_04_david_kumar.txt",
+      "match_score": 38.1,
+      "score_breakdown": {
+        "semantic_score": 35.8,
+        "keyword_score": 25.5,
+        "candidate_experience_years": 5.0
+      },
+      "matched_skills": [
+        "AWS",
+        "GCP",
+        "Azure",
+        "Python"
+      ],
+      "missing_skills": [
+        "Proficiency in TensorFlow or PyTorch",
+        "Experience with MLOps (MLflow, Kubeflow, or similar)",
+        "Strong understanding of NLP and LLMs",
+        "Experience with distributed training"
+      ],
+      "relevant_excerpts": [
+        "DevOps / Platform Engineer with 5 years of experience in cloud infrastructure, CI/CD, and SRE practices.\nExpert in Kubernetes, Terraform, and AWS. Reduced downtime by 99.5% at current company.",
+        "Senior DevOps Engineer | CloudFirst | 2021 - Present (3 years)\n- Managed 500-node Kubernetes cluster serving 50M requests/day\n- Reduced infrastructure",
+        "- AWS Solutions Architect Professional\n- Certified Kubernetes Administrator (CKA)\n- HashiCorp Terraform Associate"
+      ],
+      "reasoning": "✅ 5 years experience meets requirement of 4+ | ✅ Strong skill match: AWS, GCP, Azure, Python | ⚠️ Missing: Proficiency in TensorFlow or PyTorch, Experience with MLOps (MLflow, Kubeflow, or similar), Strong understanding of NLP and LLMs | 📌 Current: Senior DevOps Engineer | 📊 Scores — Semantic: 36, Keyword: 26, Experience: 100",
+      "hire_recommendation": "NO HIRE — Significant skill/experience gaps"
+    },
+    {
+      "rank": 4,
+      "candidate_name": "Noah Verma",
+      "resume_path": "resumes/resume_14_noah_verma.txt",
+      "match_score": 36.0,
+      "score_breakdown": {
+        "semantic_score": 36.7,
+        "keyword_score": 19.1,
+        "candidate_experience_years": 8.0
+      },
+      "matched_skills": [
+        "AWS",
+        "Azure",
+        "GCP"
+      ],
+      "missing_skills": [
+        "4+ years of Python and ML experience",
+        "Proficiency in TensorFlow or PyTorch",
+        "Experience with MLOps (MLflow, Kubeflow, or similar)",
+        "Strong understanding of NLP and LLMs",
+        "Experience with distributed training"
+      ],
+      "relevant_excerpts": [
+        "- AWS\n- Azure\n- GCP\n- Terraform\n- Kubernetes\n- Microservices\n- Cost Optimization\n- Well-Architected",
+        "Cloud Architect | CloudPro | 2016 - Present (8 years)\n- Architected cloud migration for 50+ enterprises\n- Saved clients $20M total in cloud costs\n- Ce",
+        "Cloud Architect with 8 years of experience. AWS specialist."
+      ],
+      "reasoning": "✅ 8 years experience meets requirement of 4+ | ✅ Strong skill match: AWS, Azure, GCP | ⚠️ Missing: 4+ years of Python and ML experience, Proficiency in TensorFlow or PyTorch, Experience with MLOps (MLflow, Kubeflow, or similar) | 📌 Current: Cloud Architect | 📊 Scores — Semantic: 37, Keyword: 19, Experience: 100",
+      "hire_recommendation": "NO HIRE — Significant skill/experience gaps"
+    },
+    {
+      "rank": 5,
+      "candidate_name": "Henry Patel",
+      "resume_path": "resumes/resume_08_henry_patel.txt",
+      "match_score": 33.6,
+      "score_breakdown": {
+        "semantic_score": 37.1,
+        "keyword_score": 12.7,
+        "candidate_experience_years": 5.0
+      },
+      "matched_skills": [
+        "Python",
+        "AWS"
+      ],
+      "missing_skills": [
+        "Proficiency in TensorFlow or PyTorch",
+        "Experience with MLOps (MLflow, Kubeflow, or similar)",
+        "Strong understanding of NLP and LLMs",
+        "Experience with distributed training"
+      ],
+      "relevant_excerpts": [
+        "Data Engineer with 5 years of experience. Python specialist.",
+        "- Python\n- Spark\n- Kafka\n- Airflow\n- dbt\n- Snowflake\n- BigQuery\n- AWS Glue\n- Delta Lake",
+        "Senior Data Engineer | DataPlatform Co | 2019 - Present (5 years)\n- Built real-time data pipeline processing 10TB/day\n- Migrated data warehouse to Sno"
+      ],
+      "reasoning": "✅ 5 years experience meets requirement of 4+ | ✅ Strong skill match: Python, AWS | ⚠️ Missing: Proficiency in TensorFlow or PyTorch, Experience with MLOps (MLflow, Kubeflow, or similar), Strong understanding of NLP and LLMs | 📌 Current: Senior Data Engineer | 📊 Scores — Semantic: 37, Keyword: 13, Experience: 100",
+      "hire_recommendation": "NO HIRE — Significant skill/experience gaps"
+    }
+  ]
+}

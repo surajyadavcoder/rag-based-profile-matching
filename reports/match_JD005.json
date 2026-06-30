@@ -1,0 +1,152 @@
+{
+  "job_description": "AI/LLM Engineer",
+  "company": "GenAI Startup",
+  "jd_id": "JD005",
+  "search_metadata": {
+    "total_candidates_evaluated": 31,
+    "top_k_returned": 5,
+    "retrieval_latency_ms": 23.9,
+    "jd_required_experience": 2.0
+  },
+  "top_matches": [
+    {
+      "rank": 1,
+      "candidate_name": "Wendy Bose",
+      "resume_path": "resumes/resume_23_wendy_bose.txt",
+      "match_score": 60.9,
+      "score_breakdown": {
+        "semantic_score": 43.2,
+        "keyword_score": 73.3,
+        "candidate_experience_years": 3.0
+      },
+      "matched_skills": [
+        "Python",
+        "LangChain",
+        "LlamaIndex",
+        "RAG",
+        "FastAPI",
+        "Pinecone"
+      ],
+      "missing_skills": [
+        "LLM API experience (OpenAI, Anthropic, or open-source)"
+      ],
+      "relevant_excerpts": [
+        "AI Engineer with 3 years of experience. Python specialist.",
+        "AI Engineer | AIStartup | 2021 - Present (3 years)\n- Built conversational AI assistant with 95% user satisfaction\n- Implemented RAG pipeline for legal",
+        "- Python\n- LangChain\n- LlamaIndex\n- RAG\n- Vector Databases\n- FastAPI\n- OpenAI API\n- Pinecone"
+      ],
+      "reasoning": "✅ 3 years experience meets requirement of 2+ | ✅ Strong skill match: Python, LangChain, LlamaIndex, RAG, FastAPI | ⚠️ Missing: LLM API experience (OpenAI, Anthropic, or open-source) | 📌 Current: AI Engineer | 📊 Scores — Semantic: 43, Keyword: 73, Experience: 100",
+      "hire_recommendation": "BORDERLINE — Good potential but gaps: LLM API experience (OpenAI, Anthropic, or open-source)"
+    },
+    {
+      "rank": 2,
+      "candidate_name": "Olivia Nair",
+      "resume_path": "resumes/resume_15_olivia_nair.txt",
+      "match_score": 39.6,
+      "score_breakdown": {
+        "semantic_score": 31.3,
+        "keyword_score": 35.0,
+        "candidate_experience_years": 4.0
+      },
+      "matched_skills": [
+        "Python",
+        "RAG",
+        "LangChain"
+      ],
+      "missing_skills": [
+        "Vector database experience (Pinecone, Chroma, Weaviate)",
+        "LLM API experience (OpenAI, Anthropic, or open-source)"
+      ],
+      "relevant_excerpts": [
+        "ML Research Engineer | AI Lab | 2020 - Present (4 years)\n- Fine-tuned LLMs for domain-specific tasks (15% improvement)\n- Built RAG pipeline for enterprise knowledge base\n- Published 3 research papers ",
+        "- Python\n- PyTorch\n- NLP\n- Transformers\n- LLMs\n- RLHF\n- RAG\n- LangChain\n- Vector Databases",
+        "ML Research Engineer with 4 years of experience. Python specialist."
+      ],
+      "reasoning": "✅ 4 years experience meets requirement of 2+ | ✅ Strong skill match: Python, RAG, LangChain | ⚠️ Missing: Vector database experience (Pinecone, Chroma, Weaviate), LLM API experience (OpenAI, Anthropic, or open-source) | 📌 Current: ML Research Engineer | 📊 Scores — Semantic: 31, Keyword: 35, Experience: 100",
+      "hire_recommendation": "NO HIRE — Significant skill/experience gaps"
+    },
+    {
+      "rank": 3,
+      "candidate_name": "Asha Menon",
+      "resume_path": "resumes/resume_27_asha_menon.txt",
+      "match_score": 20.35,
+      "score_breakdown": {
+        "semantic_score": 40.0,
+        "keyword_score": 26.7,
+        "candidate_experience_years": 4.0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI"
+      ],
+      "missing_skills": [
+        "Experience with LangChain or LlamaIndex",
+        "RAG pipeline implementation experience",
+        "Vector database experience (Pinecone, Chroma, Weaviate)",
+        "LLM API experience (OpenAI, Anthropic, or open-source)"
+      ],
+      "relevant_excerpts": [
+        "- Python\n- Django\n- FastAPI\n- Celery\n- Redis\n- PostgreSQL\n- REST APIs\n- pytest",
+        "Python Developer | PythonCo | 2020 - Present (4 years)\n- Built Django app serving 1M users\n- Implemented async task queue with Celery reducing process",
+        "Python Developer with 4 years of experience. Python specialist."
+      ],
+      "reasoning": "✅ 4 years experience meets requirement of 2+ | ✅ Strong skill match: Python, FastAPI | ⚠️ Missing: Experience with LangChain or LlamaIndex, RAG pipeline implementation experience, Vector database experience (Pinecone, Chroma, Weaviate) | 📌 Current: Python Developer | 📊 Scores — Semantic: 40, Keyword: 27, Experience: 100",
+      "hire_recommendation": "NO HIRE — Significant skill/experience gaps"
+    },
+    {
+      "rank": 4,
+      "candidate_name": "Eva Singh",
+      "resume_path": "resumes/resume_05_eva_singh.txt",
+      "match_score": 19.4,
+      "score_breakdown": {
+        "semantic_score": 36.2,
+        "keyword_score": 26.7,
+        "candidate_experience_years": 3.0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI"
+      ],
+      "missing_skills": [
+        "Experience with LangChain or LlamaIndex",
+        "RAG pipeline implementation experience",
+        "Vector database experience (Pinecone, Chroma, Weaviate)",
+        "LLM API experience (OpenAI, Anthropic, or open-source)"
+      ],
+      "relevant_excerpts": [
+        "Backend Engineer with 3 years of experience specializing in Python microservices, FastAPI, and distributed systems.\nStrong in system design and database optimization.",
+        "- Languages: Python, Go, SQL\n- Frameworks: FastAPI, Django, Flask, gRPC\n- Databases: PostgreSQL, MongoDB, Redis, Cassandra\n- Message Queues: Kafka, Ra",
+        "Backend Engineer | FinPay | 2021 - Present (3 years)\n- Built payment API handling 1M transactions/day using FastAPI\n- Designed event-driven microservi"
+      ],
+      "reasoning": "✅ 3 years experience meets requirement of 2+ | ✅ Strong skill match: Python, FastAPI | ⚠️ Missing: Experience with LangChain or LlamaIndex, RAG pipeline implementation experience, Vector database experience (Pinecone, Chroma, Weaviate) | 📌 Current: Backend Engineer | 📊 Scores — Semantic: 36, Keyword: 27, Experience: 100",
+      "hire_recommendation": "NO HIRE — Significant skill/experience gaps"
+    },
+    {
+      "rank": 5,
+      "candidate_name": "Sam Pillai",
+      "resume_path": "resumes/resume_19_sam_pillai.txt",
+      "match_score": 18.5,
+      "score_breakdown": {
+        "semantic_score": 44.6,
+        "keyword_score": 11.7,
+        "candidate_experience_years": 4.0
+      },
+      "matched_skills": [
+        "Python"
+      ],
+      "missing_skills": [
+        "Experience with LangChain or LlamaIndex",
+        "RAG pipeline implementation experience",
+        "Vector database experience (Pinecone, Chroma, Weaviate)",
+        "LLM API experience (OpenAI, Anthropic, or open-source)"
+      ],
+      "relevant_excerpts": [
+        "Go Developer with 4 years of experience. Go specialist.",
+        "Senior Go Developer | GoFirst | 2020 - Present (4 years)\n- Built high-performance API gateway in Go (50k req/sec)\n- Reduced service latency by 70% by ",
+        "- Go\n- gRPC\n- Microservices\n- Kafka\n- PostgreSQL\n- Docker\n- Kubernetes\n- Prometheus"
+      ],
+      "reasoning": "✅ 4 years experience meets requirement of 2+ | ✅ Strong skill match: Python | ⚠️ Missing: Experience with LangChain or LlamaIndex, RAG pipeline implementation experience, Vector database experience (Pinecone, Chroma, Weaviate) | 📌 Current: Senior Go Developer | 📊 Scores — Semantic: 45, Keyword: 12, Experience: 100",
+      "hire_recommendation": "NO HIRE — Significant skill/experience gaps"
+    }
+  ]
+}

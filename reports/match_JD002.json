@@ -1,0 +1,153 @@
+{
+  "job_description": "Full Stack Developer (React + Node.js)",
+  "company": "ProductFirst Technologies",
+  "jd_id": "JD002",
+  "search_metadata": {
+    "total_candidates_evaluated": 31,
+    "top_k_returned": 5,
+    "retrieval_latency_ms": 21.5,
+    "jd_required_experience": 3.0
+  },
+  "top_matches": [
+    {
+      "rank": 1,
+      "candidate_name": "Bob Martinez",
+      "resume_path": "resumes/resume_02_bob_martinez.txt",
+      "match_score": 60.7,
+      "score_breakdown": {
+        "semantic_score": 21.5,
+        "keyword_score": 100.0,
+        "candidate_experience_years": 4.0
+      },
+      "matched_skills": [
+        "React",
+        "Node.js",
+        "AWS",
+        "TypeScript",
+        "Next.js",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "missing_skills": [
+        "Experience with microservices and REST APIs"
+      ],
+      "relevant_excerpts": [
+        "Full Stack Developer with 4 years experience in React, Node.js and AWS.\nPassionate about building scalable web applications and microservices.",
+        "Senior Full Stack Developer | TechCorp | 2022 - Present (2 years)\n- Built customer portal with React + Node.js serving 500k users\n- Migrated monolith ",
+        "- Frontend: React, TypeScript, Next.js, Redux, Tailwind CSS\n- Backend: Node.js, Express, NestJS, GraphQL, REST APIs\n- Databases: PostgreSQL, MongoDB, "
+      ],
+      "reasoning": "✅ 4 years experience meets requirement of 3+ | ✅ Strong skill match: React, Node.js, AWS, TypeScript, Next.js | ⚠️ Missing: Experience with microservices and REST APIs | 📌 Current: Senior Full Stack Developer | 📊 Scores — Semantic: 22, Keyword: 100, Experience: 100",
+      "hire_recommendation": "BORDERLINE — Good potential but gaps: Experience with microservices and REST APIs"
+    },
+    {
+      "rank": 2,
+      "candidate_name": "Eva Singh",
+      "resume_path": "resumes/resume_05_eva_singh.txt",
+      "match_score": 42.5,
+      "score_breakdown": {
+        "semantic_score": 37.0,
+        "keyword_score": 35.0,
+        "candidate_experience_years": 3.0
+      },
+      "matched_skills": [
+        "PostgreSQL",
+        "MongoDB",
+        "AWS"
+      ],
+      "missing_skills": [
+        "3+ years React and Node.js experience",
+        "Strong TypeScript skills",
+        "Experience with microservices and REST APIs"
+      ],
+      "relevant_excerpts": [
+        "Backend Engineer with 3 years of experience specializing in Python microservices, FastAPI, and distributed systems.\nStrong in system design and database optimization.",
+        "Backend Engineer | FinPay | 2021 - Present (3 years)\n- Built payment API handling 1M transactions/day using FastAPI\n- Designed event-driven microservi",
+        "- Languages: Python, Go, SQL\n- Frameworks: FastAPI, Django, Flask, gRPC\n- Databases: PostgreSQL, MongoDB, Redis, Cassandra\n- Message Queues: Kafka, Ra"
+      ],
+      "reasoning": "✅ 3 years experience meets requirement of 3+ | ✅ Strong skill match: PostgreSQL, MongoDB, AWS | ⚠️ Missing: 3+ years React and Node.js experience, Strong TypeScript skills, Experience with microservices and REST APIs | 📌 Current: Backend Engineer | 📊 Scores — Semantic: 37, Keyword: 35, Experience: 100",
+      "hire_recommendation": "NO HIRE — Significant skill/experience gaps"
+    },
+    {
+      "rank": 3,
+      "candidate_name": "Peter Joshi",
+      "resume_path": "resumes/resume_16_peter_joshi.txt",
+      "match_score": 41.8,
+      "score_breakdown": {
+        "semantic_score": 44.9,
+        "keyword_score": 23.3,
+        "candidate_experience_years": 7.0
+      },
+      "matched_skills": [
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "missing_skills": [
+        "3+ years React and Node.js experience",
+        "Strong TypeScript skills",
+        "AWS or cloud platform experience",
+        "Experience with microservices and REST APIs"
+      ],
+      "relevant_excerpts": [
+        "Database Administrator with 7 years of experience. PostgreSQL specialist.",
+        "- PostgreSQL\n- MySQL\n- Oracle\n- MongoDB\n- Redis\n- Query Optimization\n- Replication\n- Backup & Recovery",
+        "Senior DBA | DataBank | 2017 - Present (7 years)\n- Managed 50+ production databases with 99.99% uptime\n- Optimized slow queries reducing costs by $300"
+      ],
+      "reasoning": "✅ 7 years experience meets requirement of 3+ | ✅ Strong skill match: PostgreSQL, MongoDB | ⚠️ Missing: 3+ years React and Node.js experience, Strong TypeScript skills, AWS or cloud platform experience | 📌 Current: Senior DBA | 📊 Scores — Semantic: 45, Keyword: 23, Experience: 100",
+      "hire_recommendation": "NO HIRE — Significant skill/experience gaps"
+    },
+    {
+      "rank": 4,
+      "candidate_name": "Victor Chandra",
+      "resume_path": "resumes/resume_22_victor_chandra.txt",
+      "match_score": 41.1,
+      "score_breakdown": {
+        "semantic_score": 43.5,
+        "keyword_score": 23.3,
+        "candidate_experience_years": 3.0
+      },
+      "matched_skills": [
+        "React",
+        "TypeScript"
+      ],
+      "missing_skills": [
+        "Experience with PostgreSQL or MongoDB",
+        "AWS or cloud platform experience",
+        "Experience with microservices and REST APIs"
+      ],
+      "relevant_excerpts": [
+        "React Native Developer with 3 years of experience. React Native specialist.",
+        "- React Native\n- TypeScript\n- Redux\n- Expo\n- Firebase\n- iOS\n- Android\n- GraphQL",
+        "React Native Developer | MobileFirst | 2021 - Present (3 years)\n- Built cross-platform app with 2M+ downloads\n- Implemented offline sync using Redux P"
+      ],
+      "reasoning": "✅ 3 years experience meets requirement of 3+ | ✅ Strong skill match: React, TypeScript | ⚠️ Missing: Experience with PostgreSQL or MongoDB, AWS or cloud platform experience, Experience with microservices and REST APIs | 📌 Current: React Native Developer | 📊 Scores — Semantic: 44, Keyword: 23, Experience: 100",
+      "hire_recommendation": "NO HIRE — Significant skill/experience gaps"
+    },
+    {
+      "rank": 5,
+      "candidate_name": "Tara Mehta",
+      "resume_path": "resumes/resume_20_tara_mehta.txt",
+      "match_score": 39.6,
+      "score_breakdown": {
+        "semantic_score": 40.5,
+        "keyword_score": 23.3,
+        "candidate_experience_years": 8.0
+      },
+      "matched_skills": [
+        "React",
+        "AWS"
+      ],
+      "missing_skills": [
+        "Strong TypeScript skills",
+        "Experience with PostgreSQL or MongoDB",
+        "Experience with microservices and REST APIs"
+      ],
+      "relevant_excerpts": [
+        "Tech Lead with 8 years of experience. System Design specialist.",
+        "- System Design\n- Python\n- React\n- AWS\n- Team Leadership\n- Code Review\n- Architecture",
+        "Engineering Manager | TechGiant | 2016 - Present (8 years)\n- Led 15-person engineering team delivering $10M product\n- Reduced time-to-market by 50% vi"
+      ],
+      "reasoning": "✅ 8 years experience meets requirement of 3+ | ✅ Strong skill match: React, AWS | ⚠️ Missing: Strong TypeScript skills, Experience with PostgreSQL or MongoDB, Experience with microservices and REST APIs | 📌 Current: Engineering Manager | 📊 Scores — Semantic: 40, Keyword: 23, Experience: 100",
+      "hire_recommendation": "NO HIRE — Significant skill/experience gaps"
+    }
+  ]
+}
