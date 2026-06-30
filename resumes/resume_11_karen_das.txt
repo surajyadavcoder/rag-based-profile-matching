@@ -1,0 +1,24 @@
+Name: Karen Das
+Email: karen@email.com
+
+SUMMARY
+UI/UX Designer with 4 years of experience. Figma specialist.
+
+SKILLS
+- Figma
+- Adobe XD
+- Sketch
+- User Research
+- Prototyping
+- Design Systems
+- HTML
+- CSS
+
+EXPERIENCE
+Senior UX Designer | DesignFirst | 2020 - Present (4 years)
+- Redesigned app increasing user engagement by 60%
+- Built design system used by 20+ engineers
+- Conducted 100+ user interviews
+
+EDUCATION
+B.Des | NID Ahmedabad | 2020

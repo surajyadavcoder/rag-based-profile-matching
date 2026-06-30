@@ -1,0 +1,23 @@
+Name: Tara Mehta
+Email: tara@email.com
+
+SUMMARY
+Tech Lead with 8 years of experience. System Design specialist.
+
+SKILLS
+- System Design
+- Python
+- React
+- AWS
+- Team Leadership
+- Code Review
+- Architecture
+
+EXPERIENCE
+Engineering Manager | TechGiant | 2016 - Present (8 years)
+- Led 15-person engineering team delivering $10M product
+- Reduced time-to-market by 50% via process improvements
+- Hired and mentored 20+ engineers
+
+EDUCATION
+B.Tech CSE | IIT Delhi | 2016

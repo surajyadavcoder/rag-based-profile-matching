@@ -1,0 +1,24 @@
+Name: Grace Kim
+Email: grace@email.com
+
+SUMMARY
+iOS Developer with 3 years of experience. Swift specialist.
+
+SKILLS
+- Swift
+- SwiftUI
+- UIKit
+- Combine
+- Core Data
+- ARKit
+- Xcode
+- TestFlight
+
+EXPERIENCE
+iOS Developer | AppleFirst | 2021 - Present (3 years)
+- Published 5 apps with 500k+ combined downloads
+- Implemented AR features using ARKit
+- Reduced memory usage by 40%
+
+EDUCATION
+B.Tech CSE | BITS Goa | 2021

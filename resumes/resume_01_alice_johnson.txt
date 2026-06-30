@@ -1,0 +1,44 @@
+Name: Alice Johnson
+Email: alice.johnson@email.com
+Phone: +91-9876500001
+
+SUMMARY
+Senior Machine Learning Engineer with 6 years of experience building production ML systems.
+Expert in Python, TensorFlow, PyTorch, and large-scale data pipelines.
+
+SKILLS
+- Languages: Python, R, SQL, Scala
+- ML Frameworks: TensorFlow, PyTorch, scikit-learn, XGBoost, LightGBM
+- MLOps: MLflow, Kubeflow, Airflow, Docker, Kubernetes
+- Cloud: AWS SageMaker, GCP Vertex AI, Azure ML
+- Data: Spark, Kafka, Pandas, NumPy, Dask
+- NLP: HuggingFace Transformers, spaCy, NLTK, BERT, GPT fine-tuning
+
+EXPERIENCE
+Senior ML Engineer | DataAI Corp | 2021 - Present (3 years)
+- Built fraud detection model with 98.5% accuracy serving 10M transactions/day
+- Led NLP pipeline for document classification (BERT-based, 50k docs/day)
+- Reduced model inference latency from 500ms to 45ms via ONNX optimization
+- Mentored team of 5 junior ML engineers
+
+ML Engineer | Analytics Startup | 2018 - 2021 (3 years)
+- Developed recommendation engine boosting CTR by 35%
+- Built real-time feature store using Redis + Kafka
+- Implemented A/B testing framework for model evaluation
+
+EDUCATION
+M.Tech Data Science | IIT Bombay | 2018
+CGPA: 9.2/10
+
+B.Tech CSE | NIT Surathkal | 2016
+CGPA: 8.8/10
+
+PROJECTS
+- Open source: PyTorch custom loss functions library (1200+ GitHub stars)
+- Kaggle Grandmaster (top 50 worldwide)
+- Published 2 papers in NeurIPS and ICML
+
+CERTIFICATIONS
+- AWS Machine Learning Specialty
+- Google Professional ML Engineer
+- Deep Learning Specialization (Coursera)

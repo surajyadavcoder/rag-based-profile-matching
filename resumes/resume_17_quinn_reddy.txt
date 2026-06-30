@@ -1,0 +1,24 @@
+Name: Quinn Reddy
+Email: quinn@email.com
+
+SUMMARY
+Frontend Developer with 2 years of experience. React specialist.
+
+SKILLS
+- React
+- TypeScript
+- Vue.js
+- Angular
+- CSS
+- SASS
+- Webpack
+- Performance Optimization
+
+EXPERIENCE
+Frontend Developer | WebCo | 2022 - Present (2 years)
+- Built component library used across 5 products
+- Improved Core Web Vitals scores to 95+
+- Integrated 10+ third-party APIs
+
+EDUCATION
+B.Tech CSE | SRM University | 2022

@@ -1,0 +1,24 @@
+Name: James Lee
+Email: james@email.com
+
+SUMMARY
+Security Engineer with 6 years of experience. Penetration Testing specialist.
+
+SKILLS
+- Penetration Testing
+- Python
+- OWASP
+- SOC2
+- AWS Security
+- WAF
+- Splunk
+- Vulnerability Assessment
+
+EXPERIENCE
+Senior Security Engineer | SecureCo | 2018 - Present (6 years)
+- Conducted 50+ penetration tests for Fortune 500 clients
+- Built SIEM system detecting 99.9% of threats
+- Led SOC2 Type II compliance for 3 products
+
+EDUCATION
+B.Tech CSE | IIT Roorkee | 2018

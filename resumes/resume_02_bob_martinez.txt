@@ -1,0 +1,34 @@
+Name: Bob Martinez
+Email: bob.martinez@email.com
+
+SUMMARY
+Full Stack Developer with 4 years experience in React, Node.js and AWS.
+Passionate about building scalable web applications and microservices.
+
+SKILLS
+- Frontend: React, TypeScript, Next.js, Redux, Tailwind CSS
+- Backend: Node.js, Express, NestJS, GraphQL, REST APIs
+- Databases: PostgreSQL, MongoDB, Redis, DynamoDB
+- Cloud: AWS (EC2, Lambda, RDS, S3, CloudFront), Docker, Kubernetes
+- Testing: Jest, Cypress, React Testing Library
+- Tools: Git, CI/CD, GitHub Actions, Terraform
+
+EXPERIENCE
+Senior Full Stack Developer | TechCorp | 2022 - Present (2 years)
+- Built customer portal with React + Node.js serving 500k users
+- Migrated monolith to 12 microservices reducing deploy time by 70%
+- Implemented real-time features using WebSockets (Socket.io)
+- Led frontend team of 4 developers
+
+Full Stack Developer | Startup Inc | 2020 - 2022 (2 years)
+- Built e-commerce platform from scratch (React + Node.js)
+- Integrated Stripe payments processing $2M/month
+- Improved page load time by 60% via SSR with Next.js
+
+EDUCATION
+B.Tech CSE | BITS Pilani | 2020
+CGPA: 8.4/10
+
+CERTIFICATIONS
+- AWS Developer Associate
+- Meta React Developer

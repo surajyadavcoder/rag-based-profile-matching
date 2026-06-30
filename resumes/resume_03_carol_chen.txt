@@ -1,0 +1,34 @@
+Name: Carol Chen
+Email: carol.chen@email.com
+
+SUMMARY
+Data Scientist with 5 years of experience in statistical modeling, Python, and business intelligence.
+Strong background in A/B testing, customer segmentation, and predictive analytics.
+
+SKILLS
+- Languages: Python, R, SQL
+- ML: scikit-learn, XGBoost, statsmodels, Prophet
+- Visualization: Tableau, Power BI, matplotlib, seaborn, Plotly
+- Data Engineering: Airflow, dbt, Snowflake, BigQuery
+- Statistics: Hypothesis testing, regression, time series, Bayesian methods
+- Tools: Jupyter, Git, Excel
+
+EXPERIENCE
+Senior Data Scientist | RetailCo | 2021 - Present (3 years)
+- Built customer churn prediction model saving $5M/year
+- Designed A/B testing framework used by 20+ product teams
+- Created demand forecasting model (Prophet + XGBoost ensemble) with 92% accuracy
+- Reduced customer acquisition cost by 28% via ML-powered targeting
+
+Data Scientist | Fintech | 2019 - 2021 (2 years)
+- Developed credit risk scoring model (Gini coefficient: 0.72)
+- Built automated reporting dashboards in Tableau for C-suite
+- Analyzed 100M+ transaction records for fraud patterns
+
+EDUCATION
+M.Sc Statistics | IIT Delhi | 2019
+B.Sc Mathematics | Delhi University | 2017
+
+CERTIFICATIONS
+- Google Data Analytics Professional
+- Tableau Desktop Specialist

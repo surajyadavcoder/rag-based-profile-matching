@@ -1,0 +1,25 @@
+Name: Zack Thomas
+Email: zack@email.com
+
+SUMMARY
+Site Reliability Engineer with 5 years of experience. Python specialist.
+
+SKILLS
+- Python
+- Kubernetes
+- Prometheus
+- Grafana
+- AWS
+- Terraform
+- On-call
+- SLO/SLA
+- Incident Management
+
+EXPERIENCE
+SRE | ReliabilityCo | 2019 - Present (5 years)
+- Achieved 99.99% uptime for critical payment systems
+- Reduced MTTR from 2 hours to 15 minutes
+- Built self-healing infrastructure with automated rollbacks
+
+EDUCATION
+B.Tech CSE | NIT Trichy | 2019

@@ -1,0 +1,24 @@
+Name: Noah Verma
+Email: noah@email.com
+
+SUMMARY
+Cloud Architect with 8 years of experience. AWS specialist.
+
+SKILLS
+- AWS
+- Azure
+- GCP
+- Terraform
+- Kubernetes
+- Microservices
+- Cost Optimization
+- Well-Architected
+
+EXPERIENCE
+Cloud Architect | CloudPro | 2016 - Present (8 years)
+- Architected cloud migration for 50+ enterprises
+- Saved clients $20M total in cloud costs
+- Certified in AWS, Azure, and GCP
+
+EDUCATION
+M.Tech CSE | IIT Kanpur | 2016

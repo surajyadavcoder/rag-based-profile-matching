@@ -1,0 +1,24 @@
+Name: Sam Pillai
+Email: sam@email.com
+
+SUMMARY
+Go Developer with 4 years of experience. Go specialist.
+
+SKILLS
+- Go
+- gRPC
+- Microservices
+- Kafka
+- PostgreSQL
+- Docker
+- Kubernetes
+- Prometheus
+
+EXPERIENCE
+Senior Go Developer | GoFirst | 2020 - Present (4 years)
+- Built high-performance API gateway in Go (50k req/sec)
+- Reduced service latency by 70% by migrating Python to Go
+- Contributed to open source Go projects
+
+EDUCATION
+B.Tech CSE | BITS Hyderabad | 2020

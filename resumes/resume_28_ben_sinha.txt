@@ -1,0 +1,22 @@
+Name: Ben Sinha
+Email: ben@email.com
+
+SUMMARY
+Solution Architect with 9 years of experience. Enterprise Architecture specialist.
+
+SKILLS
+- Enterprise Architecture
+- AWS
+- Azure
+- Microservices
+- API Design
+- Technical Leadership
+
+EXPERIENCE
+Solution Architect | Consulting Firm | 2015 - Present (9 years)
+- Designed architecture for 100+ enterprise clients
+- Led digital transformation for $500M retail chain
+- Speaker at 10+ industry conferences
+
+EDUCATION
+M.Tech CSE | IIT Madras | 2015

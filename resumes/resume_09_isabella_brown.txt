@@ -1,0 +1,24 @@
+Name: Isabella Brown
+Email: isabella@email.com
+
+SUMMARY
+Product Manager with 4 years of experience. Product Strategy specialist.
+
+SKILLS
+- Product Strategy
+- Agile
+- JIRA
+- SQL
+- A/B Testing
+- Figma
+- Roadmapping
+- OKRs
+
+EXPERIENCE
+Senior PM | ProductCo | 2020 - Present (4 years)
+- Led 0-to-1 product launch with 100k users in 3 months
+- Increased user retention by 45% via data-driven features
+- Managed engineering team of 8
+
+EDUCATION
+MBA | IIM Ahmedabad | 2020

@@ -1,0 +1,24 @@
+Name: Wendy Bose
+Email: wendy@email.com
+
+SUMMARY
+AI Engineer with 3 years of experience. Python specialist.
+
+SKILLS
+- Python
+- LangChain
+- LlamaIndex
+- RAG
+- Vector Databases
+- FastAPI
+- OpenAI API
+- Pinecone
+
+EXPERIENCE
+AI Engineer | AIStartup | 2021 - Present (3 years)
+- Built conversational AI assistant with 95% user satisfaction
+- Implemented RAG pipeline for legal document search
+- Reduced hallucination rate by 40% via prompt engineering
+
+EDUCATION
+M.Tech AI | IIT Bombay | 2021

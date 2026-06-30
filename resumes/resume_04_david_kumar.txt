@@ -1,0 +1,35 @@
+Name: David Kumar
+Email: david.kumar@email.com
+
+SUMMARY
+DevOps / Platform Engineer with 5 years of experience in cloud infrastructure, CI/CD, and SRE practices.
+Expert in Kubernetes, Terraform, and AWS. Reduced downtime by 99.5% at current company.
+
+SKILLS
+- Cloud: AWS (full stack), GCP, Azure
+- IaC: Terraform, Ansible, CloudFormation, Pulumi
+- Containers: Docker, Kubernetes (EKS, GKE), Helm, Istio
+- CI/CD: Jenkins, GitHub Actions, ArgoCD, GitLab CI
+- Monitoring: Prometheus, Grafana, Datadog, PagerDuty, ELK Stack
+- Languages: Python, Bash, Go (basics)
+- Databases: PostgreSQL, MySQL, Redis cluster management
+
+EXPERIENCE
+Senior DevOps Engineer | CloudFirst | 2021 - Present (3 years)
+- Managed 500-node Kubernetes cluster serving 50M requests/day
+- Reduced infrastructure costs by $2M/year via rightsizing and reserved instances
+- Built zero-downtime deployment pipeline for 100+ microservices
+- Implemented disaster recovery achieving RTO < 15 minutes
+
+DevOps Engineer | SaaS Company | 2019 - 2021 (2 years)
+- Migrated on-premise systems to AWS (lift and shift + modernization)
+- Built monitoring stack from scratch (Prometheus + Grafana + AlertManager)
+- Automated 80% of manual operations tasks via Ansible playbooks
+
+EDUCATION
+B.Tech IT | NIT Warangal | 2019
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Terraform Associate

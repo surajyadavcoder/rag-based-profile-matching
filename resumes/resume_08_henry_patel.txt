@@ -1,0 +1,25 @@
+Name: Henry Patel
+Email: henry@email.com
+
+SUMMARY
+Data Engineer with 5 years of experience. Python specialist.
+
+SKILLS
+- Python
+- Spark
+- Kafka
+- Airflow
+- dbt
+- Snowflake
+- BigQuery
+- AWS Glue
+- Delta Lake
+
+EXPERIENCE
+Senior Data Engineer | DataPlatform Co | 2019 - Present (5 years)
+- Built real-time data pipeline processing 10TB/day
+- Migrated data warehouse to Snowflake saving $500k/year
+- Led team of 4 data engineers
+
+EDUCATION
+M.Tech CSE | IIT Madras | 2019

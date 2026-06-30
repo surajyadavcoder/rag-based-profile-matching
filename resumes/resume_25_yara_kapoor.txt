@@ -1,0 +1,24 @@
+Name: Yara Kapoor
+Email: yara@email.com
+
+SUMMARY
+Data Analyst with 3 years of experience. Python specialist.
+
+SKILLS
+- Python
+- SQL
+- Tableau
+- Power BI
+- Excel
+- Statistics
+- pandas
+- matplotlib
+
+EXPERIENCE
+Data Analyst | RetailChain | 2021 - Present (3 years)
+- Built 30+ dashboards for C-suite decision making
+- Identified $2M in cost savings via spend analysis
+- Automated 50+ manual reports saving 200 hours/month
+
+EDUCATION
+B.Sc Statistics | Delhi University | 2021

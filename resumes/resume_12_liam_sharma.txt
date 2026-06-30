@@ -1,0 +1,25 @@
+Name: Liam Sharma
+Email: liam@email.com
+
+SUMMARY
+Blockchain Developer with 4 years of experience. Solidity specialist.
+
+SKILLS
+- Solidity
+- Ethereum
+- Web3.js
+- Hardhat
+- IPFS
+- DeFi
+- Smart Contracts
+- Rust
+- Substrate
+
+EXPERIENCE
+Blockchain Developer | Web3Corp | 2020 - Present (4 years)
+- Developed DeFi protocol with $50M TVL
+- Audited 20+ smart contracts preventing $10M in vulnerabilities
+- Built NFT marketplace with 50k users
+
+EDUCATION
+B.Tech CSE | IIIT Hyderabad | 2020

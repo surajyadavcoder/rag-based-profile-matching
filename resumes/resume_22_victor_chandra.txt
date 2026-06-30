@@ -1,0 +1,24 @@
+Name: Victor Chandra
+Email: victor@email.com
+
+SUMMARY
+React Native Developer with 3 years of experience. React Native specialist.
+
+SKILLS
+- React Native
+- TypeScript
+- Redux
+- Expo
+- Firebase
+- iOS
+- Android
+- GraphQL
+
+EXPERIENCE
+React Native Developer | MobileFirst | 2021 - Present (3 years)
+- Built cross-platform app with 2M+ downloads
+- Implemented offline sync using Redux Persist
+- Reduced app size by 40% via code splitting
+
+EDUCATION
+B.Tech CSE | Manipal University | 2021

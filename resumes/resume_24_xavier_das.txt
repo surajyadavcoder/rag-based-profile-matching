@@ -1,0 +1,22 @@
+Name: Xavier Das
+Email: xavier@email.com
+
+SUMMARY
+Rust Developer with 4 years of experience. Rust specialist.
+
+SKILLS
+- Rust
+- WebAssembly
+- Systems Programming
+- C++
+- Performance Optimization
+- Embedded Systems
+
+EXPERIENCE
+Systems Engineer | LowLevel Co | 2020 - Present (4 years)
+- Rewrote Python service in Rust achieving 100x speedup
+- Built WebAssembly modules for browser-side computation
+- Contributed to Rust compiler (50+ commits)
+
+EDUCATION
+B.Tech CSE | IIT Guwahati | 2020

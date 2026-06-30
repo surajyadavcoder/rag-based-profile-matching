@@ -1,0 +1,25 @@
+Name: Maya Gupta
+Email: maya@email.com
+
+SUMMARY
+QA Engineer with 5 years of experience. Selenium specialist.
+
+SKILLS
+- Selenium
+- pytest
+- JMeter
+- Cypress
+- API Testing
+- Performance Testing
+- CI/CD
+- Python
+- Java
+
+EXPERIENCE
+Senior QA Engineer | QualityFirst | 2019 - Present (5 years)
+- Built test automation framework covering 10,000+ test cases
+- Reduced regression testing time from 3 days to 4 hours
+- Led QA team of 6 engineers
+
+EDUCATION
+B.Tech IT | NIT Calicut | 2019

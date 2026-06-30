@@ -1,0 +1,25 @@
+Name: Frank Wilson
+Email: frank@email.com
+
+SUMMARY
+Android Developer with 4 years of experience. Android specialist.
+
+SKILLS
+- Android
+- Kotlin
+- Java
+- Jetpack Compose
+- MVVM
+- Retrofit
+- Room
+- Firebase
+- Coroutines
+
+EXPERIENCE
+Senior Android Developer | MobileApp Co | 2020 - Present (4 years)
+- Built apps with 10M+ downloads
+- Implemented offline-first architecture
+- Reduced app crash rate to 0.1%
+
+EDUCATION
+B.Tech CSE | IIT Kharagpur | 2020

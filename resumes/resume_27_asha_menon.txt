@@ -1,0 +1,24 @@
+Name: Asha Menon
+Email: asha@email.com
+
+SUMMARY
+Python Developer with 4 years of experience. Python specialist.
+
+SKILLS
+- Python
+- Django
+- FastAPI
+- Celery
+- Redis
+- PostgreSQL
+- REST APIs
+- pytest
+
+EXPERIENCE
+Python Developer | PythonCo | 2020 - Present (4 years)
+- Built Django app serving 1M users
+- Implemented async task queue with Celery reducing processing time by 80%
+- Led migration to FastAPI for new services
+
+EDUCATION
+B.Tech CSE | Anna University | 2020

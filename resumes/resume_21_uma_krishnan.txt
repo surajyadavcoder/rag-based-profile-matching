@@ -1,0 +1,24 @@
+Name: Uma Krishnan
+Email: uma@email.com
+
+SUMMARY
+Java Developer with 6 years of experience. Java specialist.
+
+SKILLS
+- Java
+- Spring Boot
+- Microservices
+- Kafka
+- PostgreSQL
+- Docker
+- JUnit
+- Maven
+
+EXPERIENCE
+Senior Java Developer | JavaCorp | 2018 - Present (6 years)
+- Built microservices handling 5M requests/day
+- Led migration from Java 8 to Java 17 improving performance by 30%
+- Wrote library adopted by 100+ internal teams
+
+EDUCATION
+B.Tech CSE | IIIT Bangalore | 2018

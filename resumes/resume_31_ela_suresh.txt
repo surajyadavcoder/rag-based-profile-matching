@@ -1,0 +1,24 @@
+Name: Ela Suresh
+Email: ela@email.com
+
+SUMMARY
+Business Intelligence Developer with 6 years of experience. SQL specialist.
+
+SKILLS
+- SQL
+- Tableau
+- Power BI
+- Python
+- dbt
+- Snowflake
+- ETL
+- Data Modeling
+
+EXPERIENCE
+BI Developer | DataInsights | 2018 - Present (6 years)
+- Built enterprise data warehouse for $1B company
+- Created executive dashboards reducing report time by 90%
+- Designed star schema for 100TB data warehouse
+
+EDUCATION
+B.Tech IT | NIT Surathkal | 2018

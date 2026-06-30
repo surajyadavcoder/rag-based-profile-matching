@@ -1,0 +1,24 @@
+Name: Chloe Rao
+Email: chloe@email.com
+
+SUMMARY
+Embedded Systems Engineer with 5 years of experience. C specialist.
+
+SKILLS
+- C
+- C++
+- RTOS
+- ARM
+- Linux Kernel
+- Embedded Linux
+- Python
+- Hardware Protocols
+
+EXPERIENCE
+Embedded Engineer | AutoTech | 2019 - Present (5 years)
+- Developed ADAS software for 3 car models
+- Reduced firmware size by 30% enabling cheaper hardware
+- Led safety-critical software certification (ISO 26262)
+
+EDUCATION
+B.Tech ECE | IIT Roorkee | 2019

@@ -1,0 +1,24 @@
+Name: Rachel Iyer
+Email: rachel@email.com
+
+SUMMARY
+Scrum Master with 5 years of experience. Agile specialist.
+
+SKILLS
+- Agile
+- Scrum
+- Kanban
+- JIRA
+- Confluence
+- Team Facilitation
+- SAFe
+- Risk Management
+
+EXPERIENCE
+Scrum Master | AgileFirst | 2019 - Present (5 years)
+- Facilitated 10 agile teams (80+ engineers)
+- Improved team velocity by 40% via process improvements
+- SAFe Program Consultant certified
+
+EDUCATION
+MBA | IIM Bangalore | 2019

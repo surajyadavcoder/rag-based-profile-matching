@@ -1,0 +1,24 @@
+Name: Dan Arora
+Email: dan@email.com
+
+SUMMARY
+ML Ops Engineer with 4 years of experience. Python specialist.
+
+SKILLS
+- Python
+- MLflow
+- Kubeflow
+- Docker
+- Kubernetes
+- Airflow
+- AWS SageMaker
+- CI/CD for ML
+
+EXPERIENCE
+MLOps Engineer | MLPlatform | 2020 - Present (4 years)
+- Built ML platform serving 500+ data scientists
+- Reduced model deployment time from 2 weeks to 2 hours
+- Implemented model monitoring detecting drift in real-time
+
+EDUCATION
+M.Tech CSE | IIT Kharagpur | 2020

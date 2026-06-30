@@ -1,0 +1,24 @@
+Name: Peter Joshi
+Email: peter@email.com
+
+SUMMARY
+Database Administrator with 7 years of experience. PostgreSQL specialist.
+
+SKILLS
+- PostgreSQL
+- MySQL
+- Oracle
+- MongoDB
+- Redis
+- Query Optimization
+- Replication
+- Backup & Recovery
+
+EXPERIENCE
+Senior DBA | DataBank | 2017 - Present (7 years)
+- Managed 50+ production databases with 99.99% uptime
+- Optimized slow queries reducing costs by $300k/year
+- Led database migration for 3 major acquisitions
+
+EDUCATION
+B.Tech CSE | NIT Jaipur | 2017

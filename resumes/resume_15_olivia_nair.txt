@@ -1,0 +1,25 @@
+Name: Olivia Nair
+Email: olivia@email.com
+
+SUMMARY
+ML Research Engineer with 4 years of experience. Python specialist.
+
+SKILLS
+- Python
+- PyTorch
+- NLP
+- Transformers
+- LLMs
+- RLHF
+- RAG
+- LangChain
+- Vector Databases
+
+EXPERIENCE
+ML Research Engineer | AI Lab | 2020 - Present (4 years)
+- Fine-tuned LLMs for domain-specific tasks (15% improvement)
+- Built RAG pipeline for enterprise knowledge base
+- Published 3 research papers on efficient transformers
+
+EDUCATION
+M.Tech AI | IIT Hyderabad | 2020
