@@ -1,0 +1,10 @@
+chromadb>=0.5.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+jupyter>=1.0.0
+nbformat>=5.9.0
+
+# Optional, for production-grade embeddings (not required to run as-is):
+# sentence-transformers>=2.7.0
+# openai>=1.0.0
+# cohere>=5.0.0
