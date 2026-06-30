@@ -1,0 +1,123 @@
+JD_ID: JD001
+Position: Senior Machine Learning Engineer
+Company: AI Innovations Ltd
+Experience Required: 4+ years
+
+DESCRIPTION
+We are building the next generation of AI-powered products. Looking for a Senior ML Engineer
+to design and deploy production ML systems at scale.
+
+MUST HAVE
+- 4+ years of Python and ML experience
+- Proficiency in TensorFlow or PyTorch
+- Experience with MLOps (MLflow, Kubeflow, or similar)
+- Cloud ML experience (AWS SageMaker, GCP Vertex AI, or Azure ML)
+- Strong understanding of NLP and LLMs
+- Experience with distributed training
+
+NICE TO HAVE
+- Published research papers
+- Kaggle competitions experience
+- HuggingFace Transformers expertise
+- Experience with RLHF or fine-tuning LLMs
+
+RESPONSIBILITIES
+- Design and train ML models for production
+- Build scalable ML pipelines
+- Collaborate with research team
+- Mentor junior engineers
+
+COMPENSATION: 40-60 LPA
+---
+JD_ID: JD002
+Position: Full Stack Developer (React + Node.js)
+Company: ProductFirst Technologies
+Experience Required: 3+ years
+
+DESCRIPTION
+Fast-growing SaaS company looking for a Full Stack Developer to build customer-facing features.
+
+MUST HAVE
+- 3+ years React and Node.js experience
+- Strong TypeScript skills
+- Experience with PostgreSQL or MongoDB
+- AWS or cloud platform experience
+- Experience with microservices and REST APIs
+
+NICE TO HAVE
+- Next.js experience
+- GraphQL knowledge
+- Mobile development experience
+- Experience with real-time features (WebSockets)
+
+COMPENSATION: 25-40 LPA
+---
+JD_ID: JD003
+Position: Senior Data Scientist
+Company: Analytics Pro
+Experience Required: 4+ years
+
+DESCRIPTION
+Join our data science team to build predictive models that drive business decisions.
+
+MUST HAVE
+- 4+ years Python and R experience
+- Strong statistics and ML knowledge
+- Experience with A/B testing frameworks
+- SQL and data engineering skills
+- Experience with business intelligence tools (Tableau/Power BI)
+
+NICE TO HAVE
+- Experience with time series forecasting
+- Spark/big data experience
+- Published research
+- Domain experience in retail or finance
+
+COMPENSATION: 30-50 LPA
+---
+JD_ID: JD004
+Position: DevOps / Platform Engineer
+Company: CloudScale Inc
+Experience Required: 3+ years
+
+DESCRIPTION
+We need a DevOps engineer to help scale our Kubernetes infrastructure serving 50M+ users.
+
+MUST HAVE
+- 3+ years Kubernetes and Docker experience
+- Terraform or Ansible for IaC
+- CI/CD pipeline experience (GitHub Actions, Jenkins, ArgoCD)
+- AWS or GCP expertise
+- Monitoring with Prometheus and Grafana
+
+NICE TO HAVE
+- SRE experience with SLOs/SLAs
+- Multi-cloud experience
+- Go or Python scripting
+- Cost optimization experience
+
+COMPENSATION: 28-45 LPA
+---
+JD_ID: JD005
+Position: AI/LLM Engineer
+Company: GenAI Startup
+Experience Required: 2+ years
+
+DESCRIPTION
+Early-stage AI startup building enterprise LLM applications. Looking for an AI engineer
+to build RAG systems and LLM-powered features.
+
+MUST HAVE
+- 2+ years Python experience
+- Experience with LangChain or LlamaIndex
+- RAG pipeline implementation experience
+- Vector database experience (Pinecone, Chroma, Weaviate)
+- LLM API experience (OpenAI, Anthropic, or open-source)
+
+NICE TO HAVE
+- Fine-tuning LLMs experience
+- FastAPI for serving ML models
+- Vector search optimization
+- Prompt engineering expertise
+
+COMPENSATION: 25-45 LPA
